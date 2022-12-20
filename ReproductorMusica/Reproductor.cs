@@ -18,7 +18,7 @@ namespace ReproductorMusica
         public Reproductor()
         {
             InitializeComponent();
-            WinMediaPlayer.URL = @"C:\Users\OWNER\Music\Musica\ACDC\Disc 1\01.Thunderstruck.mp3";
+            WinMediaPlayer.URL = @"%HOME%\Disc 1\01.Thunderstruck.mp3";
             WinMediaPlayer.enableContextMenu = false;
             
            
